@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\bin\Debug\implementacion_funcionVA.exe
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\bin\Debug\implementacion_funcionVA.pdb
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\obj\Debug\implementacion_funcionVA.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\obj\Debug\implementacion_funcionVA.Form1.resources
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\obj\Debug\implementacion_funcionVA.Properties.Resources.resources
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\obj\Debug\implementacion_funcionVA.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\obj\Debug\implementacion_funcionVA.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\obj\Debug\implementacion_funcionVA.exe
+C:\Users\usuario\source\repos\implementacion_funcionVA\implementacion_funcionVA\obj\Debug\implementacion_funcionVA.pdb
